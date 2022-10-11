@@ -1,5 +1,7 @@
 <?php
-include_once('ApiRequestor.php');
+namespace Duitku\Linkajapercent\Helper\Duitku;
+// include_once('ApiRequestor.php');
+use Duitku\Linkajapercent\Helper\Duitku\Duitku_Linkajapercent_ApiRequestor;
 class Duitku_Linkajapercent_Core {
 
   public static function getRedirectionUrl($baseUrl, $params)
