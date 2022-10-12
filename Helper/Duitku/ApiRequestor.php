@@ -1,5 +1,4 @@
 <?php
-namespace Duitku\Linkajapercent\Helper\Duitku;
 
 class Duitku_Linkajapercent_ApiRequestor {
 
